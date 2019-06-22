@@ -1,8 +1,9 @@
-baseurl = "http://www.example.com"
+baseurl = "https://kmyokoyama.github.io"
 title = "Kazuki Yokoyama"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "pt"
+publishDir = "kmyokoyama.github.io"
 
 paginate = 20
 canonifyurls = true
