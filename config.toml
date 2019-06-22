@@ -1,0 +1,89 @@
+baseurl = "http://www.example.com"
+title = "Kazuki Yokoyama"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "pt"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Kazuki Yokoyama"
+    info = "Engenheiro de software"
+    subinfo = "Back end @iFood"
+    description = "Kazuki Yokoyama"
+    keywords = "blog,developer,personal"
+    avatarurl = "images/profile.jpg"
+
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
+
+    #footercontent = "Enter a text here."
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 1
+    url = "https://linkedin.com/in/kmyokoyama/"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 2
+    url = "https://github.com/kmyokoyama/"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium fa-2x"
+    weight = 3
+    url = "https://medium.com/@kazukiyokoyama"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 4
+    url = "https://twitter.com/kmyokoyama/"
+[[params.social]]
+    name = "facebook"
+    icon = "fab fa-facebook fa-2x"
+    weight = 5
+    url = "https://facebook.com/kmyokoyama/"
+[[params.social]]
+    name = "Twittere"
+    icon = "fa fa-envelope fa-2x"
+    weight = 6
+    url = "mailto:kazuki.yokoyama@ufrgs.br"
+
+
+
+
+
+# Menu links
+[[menu.main]]
+    name = "Sobre"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Apresentações"
+    weight = 2
+    url = "/presentations/"
+[[menu.main]]
+    name = "Reviews"
+    weight = 3
+    url  = "/reviews/"
+[[menu.main]]
+    name = "Blog"
+    weight = 4
+    url  = "/posts/"
