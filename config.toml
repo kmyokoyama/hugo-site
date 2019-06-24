@@ -62,14 +62,10 @@ disqusShortname = "yourdiscussshortname"
     weight = 5
     url = "https://facebook.com/kmyokoyama/"
 [[params.social]]
-    name = "Twittere"
+    name = "Email"
     icon = "fa fa-envelope fa-2x"
     weight = 6
     url = "mailto:kazuki.yokoyama@ufrgs.br"
-
-
-
-
 
 # Menu links
 [[menu.main]]
@@ -77,14 +73,18 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
     url = "/about/"
 [[menu.main]]
-    name = "Apresentações"
+    name = "Resume"
     weight = 2
+    url  = "https://bit.ly/2Y4zmsF"
+[[menu.main]]
+    name = "Apresentações"
+    weight = 3
     url = "/presentations/"
 [[menu.main]]
     name = "Reviews"
-    weight = 3
+    weight = 4
     url  = "/reviews/"
 [[menu.main]]
     name = "Blog"
-    weight = 4
+    weight = 5
     url  = "/posts/"
