@@ -1,7 +1,7 @@
 ---
 title: "Movile/RSJUG Meetup - Java Efetivo para quem tem pressa"
 date: 2019-06-25T14:08:04-03:00
-draft: true
+draft: false
 ---
 
 {{< figure src="/images/presentations/2019-06-25-movile-jugrs-meetup.jpg"  >}}
