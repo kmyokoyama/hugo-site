@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     author = "Kazuki Yokoyama"
     info = "Engenheiro de software"
-    subinfo = "Back end @iFood"
+    #subinfo = "Back end"
     location = "Porto Alegre - RS, Brasil"
     description = "Kazuki Yokoyama"
     keywords = "blog,developer,personal"
@@ -66,7 +66,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Email"
     icon = "fa fa-envelope fa-2x"
     weight = 6
-    url = "mailto:kazuki.yokoyama@ufrgs.br"
+    url = "mailto:yokoyama.km@gmail.com"
 
 # Menu links
 [[menu.main]]
@@ -76,7 +76,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Resume"
     weight = 2
-    url  = "https://bit.ly/2BaSdZ7"
+    url  = "https://bit.ly/2W7ZCDY"
 [[menu.main]]
     name = "Apresentações"
     weight = 3
